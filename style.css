@@ -1,17 +1,4 @@
 :root {
-    /* --sliceBorderWidth: 500px;
-    --radius1: 250px;
-
-	--diameter: 550;
-	--numberOfSlices: 12;
-	--radius: calc(var(--diameter) / 2);
-	--circumfrance: calc(6.283185307 * var(--radius));
-	--sliceHeight: (var(--circumfrance) / var(--numberOfSlices));
-	--sliceOffset: calc(var(--sliceHeight) / 2);
-	--sliceColor: #095B8D;
-	--rotation: calc(360deg / var(--numberOfSlices)); */
-
-
 }
 
 body {
@@ -128,54 +115,6 @@ body {
     text-align: right;
     padding-left: 20px;
 }
-
-/* .dial .slice:nth-child(1) {
-    transform: rotate(0deg);
-}
-
-.dial .slice:nth-child(2) {
-    transform: rotate(30deg);
-}
-
-.dial .slice:nth-child(3) {
-    transform: rotate(60deg);
-}
-
-.dial .slice:nth-child(4) {
-    transform: rotate(90deg);
-}
-
-.dial .slice:nth-child(5) {
-    transform: rotate(120deg);
-}
-
-.dial .slice:nth-child(6) {
-    transform: rotate(150deg);
-}
-
-.dial .slice:nth-child(7) {
-    transform: rotate(180deg);
-}
-
-.dial .slice:nth-child(8) {
-    transform: rotate(210deg);
-}
-
-.dial .slice:nth-child(9) {
-    transform: rotate(240deg);
-}
-
-.dial .slice:nth-child(10) {
-    transform: rotate(270deg);
-}
-
-.dial .slice:nth-child(11) {
-    transform: rotate(300deg);
-}
-
-.dial .slice:nth-child(12) {
-    transform: rotate(330deg);
-} */
 
 @keyframes rotating {
     from {
